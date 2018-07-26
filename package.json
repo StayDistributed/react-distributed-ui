@@ -30,9 +30,9 @@
     "react-dom": "^16.4.1"
   },
   "author": "Michele Salvini",
-  "homepage": "",
+  "homepage": "https://github.com/StayDistributed/react-distributed-ui",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/StayDistributed/react-distributed-ui",
   "keywords": [
     "react-component"
   ]
